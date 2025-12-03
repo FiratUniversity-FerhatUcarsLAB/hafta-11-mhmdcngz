@@ -21,4 +21,13 @@ public class Exercise4_3 {
     public static void ping() {
         System.out.println(".");
     }
+
+    /*
+     * Çıktı
+     * 
+     * No, I wug.
+     * You wugga wug.
+     * I wug.
+     * 
+     */
 }

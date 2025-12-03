@@ -17,5 +17,11 @@ public class Exercise4_4 {
         // System.out.println(sayHello() + 7);
 
         // Cevaplarinizi yorum olarak ekleyin.
+
+        // Cevap1) ifadeyi arka planda döndürür ama ekrana yazdırmaz, hata vermez.
+        // Cevap2) void metodu bir ifadenin içinde kullanılırsa kod çalışmaz, hata
+        // verir.
+        // Hata Mesajı: “+ operatörünü şu tipler arasında kullanamazsın: void ve int.”
+
     }
 }

@@ -24,4 +24,12 @@ public class Exercise4_5 {
     public static void ping(String strangStrung) {
         System.out.println("any " + strangStrung + "more ");
     }
+
+    // çıktı
+    /*
+     * just for
+     * any not more
+     * It's breakfast
+     * !
+     */
 }
